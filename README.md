@@ -17,7 +17,6 @@ Prerequisites
 Node.js and npm installed on your machine.
 Installation
 Clone the Repository:
-git clone https://github.com/your-username/color-picker-app.git
 Navigate into the Project Directory:
 cd color-picker-app
 Install Dependencies:
